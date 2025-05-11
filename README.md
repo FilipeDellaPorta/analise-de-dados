@@ -1,6 +1,6 @@
 # 📊 Projetos de Análise de Dados
 
-Este repositório contém projetos de análise de dados desenvolvidos com Python, utilizando bibliotecas como Pandas, NumPy, Matplotlib e Seaborn.
+Este repositório contém projetos de análise de dados desenvolvidos com Python, utilizando bibliotecas como Pandas, NumPy e Matplotlib.
 
 Cada projeto simula um cenário real de análise, incluindo carregamento de dados, processamento, visualização e geração de insights.
 
