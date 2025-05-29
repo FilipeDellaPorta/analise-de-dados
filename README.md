@@ -18,6 +18,7 @@ Cada projeto simula um cenário real de análise, incluindo carregamento de dado
 - Pandas
 - NumPy
 - Matplotlib
+- Seaborn
 - Jupyter Notebook / Google Colab
 
 ---
